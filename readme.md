@@ -14,3 +14,5 @@
 - git log : 
 - git reset --hard : 
 - git rm --cached : 
+
+aaa
