@@ -15,6 +15,8 @@
 - git reset --hard : 
 - git rm --cached : 
 
+=======================================================
+
 ## 제외목록 설정
 - [.gitignore 파일](https://git-scm.com/docs/gitignore#_pattern_format)
 - [추천 사이트](https://www.gitignore.io/)
@@ -32,3 +34,5 @@
 - 삭제하기 : git branch -d [브랜치명] 
 - 이름변경(이동) : git branch -m [기존 브랜치명] [새 브랜치명]
 - 전환하기 : git checkout [브랜치명]
+
+=======================================================
