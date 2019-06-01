@@ -20,11 +20,11 @@
 - [추천 사이트](https://www.gitignore.io/)
 
 ## 원격 저장소
-- 목록보기 : git remote -v 
-- 추가하기 : git remote add [별칭] [주소]
-- 삭제하기 : git remote rm [별칭]
-- 별칭수정 : git remote rename [기존별칭] [새 별칭]
-- 주소수정 : git remote set-url [별칭] [변경할주소]
+- 목록보기 : git remote -v : 자세히보기
+- 추가하기 : git remote add [별칭] [주소] : 추가하기 (별칭은 기본으로 origin)
+- 삭제하기 : git remote rm [별칭] : 삭제
+- 별칭수정 : git remote rename [기존별칭] [새 별칭] : 이름 바꾸기
+- 주소수정 : git remote set-url [별칭] [변경할주소] : 주소바꾸기
 
 ## 브랜치
 - 목록보기 : git branch
